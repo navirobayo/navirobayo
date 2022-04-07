@@ -14,7 +14,7 @@
   I'm newbie in this world. I have created some songs in Fl Studio, also used the neighbor's Wifi back in the days. Nothing too technical. 
   <p>
   
-  - As an adult I pay my own internet service now. 
+  > As an adult I pay my own internet service now. 
   
   I would like to learn new and interesting skills for my professional career. 
   
@@ -30,7 +30,7 @@
   
   <p>
   
-  - Ahora que soy un adulto prefiero pagar mi propio servicio de internet. 
+  > Ahora que soy un adulto prefiero pagar mi propio servicio de internet. 
   
  Por último, me gusta ejercitarme. Algo de boxeo (con una bolsa) y calistenia. 
  Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
