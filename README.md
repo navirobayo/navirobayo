@@ -29,7 +29,7 @@
   
   <p>
   
-  > Ahora como adulto responsable pago mi propio servicio de internet. 
+  > Ahora como todo adulto responsable pago mi propio servicio de internet. 
   
  Por último, me gusta ejercitarme. Algo de boxeo (con una bolsa) y calistenia. 
  Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
