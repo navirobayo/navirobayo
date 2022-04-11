@@ -25,11 +25,11 @@
   <hr shade size="4" widht="50%" align="center" /> 
   <h3> ESP: </h3>
   Nací y crecí en Colombia. Estudié artes y ahora estoy aprendiendo a programar desde cero. Claramente principante. 
-  He creado algunas cacnciones en Fl Studio, tambien usé el Wifi de mi vecino hace algunos años. Nada muy técnico. 
+  He creado algunas canciones en Fl Studio, tambien usé el Wifi de mi vecino hace algunos años. Nada muy técnico. 
   
   <p>
   
-  > Ahora que soy un adulto prefiero pagar mi propio servicio de internet. 
+  > Ahora como adulto responsable pago mi propio servicio de internet. 
   
  Por último, me gusta ejercitarme. Algo de boxeo (con una bolsa) y calistenia. 
  Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
