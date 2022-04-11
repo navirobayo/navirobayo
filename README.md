@@ -7,7 +7,6 @@
   <code>Nombre real: Ivan.</code>
   <code>Idioma nativo: Español. </code>
   <code>English Level: Superb. </code>
-  <code>French girlfriend: Possiblement. </code>
   <hr shade size="4" widht="50%" align="center" />   
   <h3> ENG: </h3>
   I was born and raised in Colombia. I studied Arts, in a university. It was fun and now I'm into coding. 
@@ -19,7 +18,7 @@
   I would like to learn new and interesting skills for my professional career. 
   
   Finally, i like to excercise. Some boxing (with a punchbag) and calisthenics. 
-  Check out my linkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
+  Check out my LinkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
   <p>
   Peace! &#127747
     </p> 
