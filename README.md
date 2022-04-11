@@ -17,7 +17,7 @@
   
   I would like to learn new and interesting skills for my professional career. 
   
-  Finally, i like to excercise. Some boxing (with a punchbag) and calisthenics. 
+  Finally, i like to excercise. Some boxing and calisthenics. 
   Check out my LinkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
   <p>
   Peace! &#127747
@@ -31,7 +31,7 @@
   
   > Ahora como todo adulto responsable pago mi propio servicio de internet. 
   
- Por último, me gusta ejercitarme. Algo de boxeo (con una bolsa) y calistenia. 
+ Por último, me gusta ejercitarme. Algo de boxeo y calistenia. 
  Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
   <p>
   Peace! &#127747
