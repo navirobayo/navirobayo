@@ -6,7 +6,7 @@
   
   <code> Real name: *Ivan.* </code> <br>
   <code> Native language: *Spanish.* </code> <br>
-  <code> Skills: *Learning habilities 10/10* <br> *Teamplayer: Yes.* <br> *Tattoos 10/10* </code>
+  <code> Skills: *Learning 10/10* <br> *Teamplayer: Yes.* <br> *Tattoos 10/10* </code>
   
   <hr shade size="4" widht="50%" align="center" />  
   
