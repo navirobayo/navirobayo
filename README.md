@@ -4,36 +4,33 @@
   
   Quick Bio---> From Artist to Programmer. 
   
-  <code>Nombre real: Ivan.</code>
-  <code>Idioma nativo: Español. </code>
-  <code>English Level: Superb. </code>
-  <hr shade size="4" widht="50%" align="center" />   
+  <code> Real name: *Ivan.* </code> <br>
+  <code> Native language: *Spanish.* </code> <br>
+  <code> Skills: *Learning habilities 10/10* <br> *Teamplayer: Yes.* <br> *Tattoos 10/10* </code>
+  
+  <hr shade size="4" widht="50%" align="center" />  
+  
   <h3> ENG: </h3>
-  I was born and raised in Colombia. I studied Arts, in a university. It was fun and now I'm into coding. 
-  I'm newbie in this world. I have created some songs in Fl Studio, also used the neighbor's Wifi back in the days. Nothing too technical. 
-  <p>
   
-  > As an adult I pay my own internet service now. 
+  I was born and raised in Colombia. I studied arts, it was fun and now I'm teaching myself some coding skills.
+  I have created songs in Fl Studio, also used the neighbor's wifi back in the days. Nothing too technical. 
   
-  I would like to learn new and interesting skills for my professional career. 
-  
-  Finally, i like to excercise. Some boxing and calisthenics. 
-  Check out my LinkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
-  <p>
-  Peace! &#127747
-    </p> 
+  > As an adult I pay my own internet service now.
+     
+  Finally, i like to excercise. Some boxing and calisthenics.  
+  <br>
+  Check out my LinkedIn here: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a> &#9978;   
+ 
   <hr shade size="4" widht="50%" align="center" /> 
+  
   <h3> ESP: </h3>
-  Nací y crecí en Colombia. Estudié artes y ahora estoy aprendiendo a programar desde cero. Claramente principante. 
-  He creado algunas canciones en Fl Studio, tambien usé el Wifi de mi vecino hace algunos años. Nada muy técnico. 
   
-  <p>
+  Nací y crecí en Colombia. Estudié arte, fue divertido y ahora soy estudiante autónomo de programación.  
+  He creado canciones en Fl Studio, tambien usé el wifi de mi vecino hace algunos años. Nada muy técnico. 
   
-  > Ahora como todo adulto responsable pago mi propio servicio de internet. 
+  > Como adulto ahora pago mi propio servicio de internet. 
   
- Por último, me gusta ejercitarme. Algo de boxeo y calistenia. 
- Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a>
-  <p>
-  Peace! &#127747
-    </p> 
-      </html> 
+  Por último, me gusta ejercitarme. Algo de boxeo y calistenia. 
+  <br>    
+  Puedes seguirme en LinkedIn acá: <a href=https://www.linkedin.com/in/soyivan1997 name="start">soyivan1997</a> &#9978; 
+ </html> 
