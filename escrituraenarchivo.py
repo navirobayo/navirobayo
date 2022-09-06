@@ -1,5 +1,5 @@
 archivodelectura = []
-documento = open("devices.txt", "a")
+documento = open("devicesedit.txt", "a")
 while True:
     nuevoitem = input("Ingresa el nuevo dispositivo")
     if nuevoitem == "exit":
@@ -7,7 +7,7 @@ while True:
         break
     documento.write(nuevoitem + "\n")
 documento.close()
-documento = open("devices.txt", "r")
+documento = open("devicesedit.txt", "r")
 for i in documento:
     print(i)
 documento.close()
