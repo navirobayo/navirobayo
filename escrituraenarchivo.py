@@ -1,4 +1,3 @@
-archivodelectura = []
 documento = open("devicesedit.txt", "a")
 while True:
     nuevoitem = input("Ingresa el nuevo dispositivo")
