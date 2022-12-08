@@ -1,3 +1,22 @@
-# >>> # 
-<p>
-Acá encontrarás ejercicios de estudio con Python, HTML y Javascript. Encuentro divertidos algunos de los diálogos y comentarios que utilicé en varios de estos archivos. Diviértete revisando los códigos. :godmode: </p>   
+<!DOCTYPE html>
+<html>
+  <h1 style="text-align"> Buongiorno! </h1>
+  <code> Location == Latin America </code>
+  <br>
+  <code> Interests == Infosec / Driving motorbikes </code>
+  <br>
+  <code> Experience == Html5 / CSS / Python </code>
+  <br>
+  <code> Currently learning == Python / JavaScript </code>
+  <br>  
+  <hr shade size="4" widht="50%" align="center"/>  
+  I like tattoos, to exercise and motorbikes. Here you are going to find the proyects that I'm currently into. 
+  <br> 
+  <br>
+  I've written an eBook that might help you as a man in this world, you can check it at <a href=https://www.amazon.com/dp/B0BC8RT32L>Amazon Kindle </a> 
+  <br> 
+  <br> 
+  I'm currently compiling a Python learning route from scratch for people like me <em><strong> (no math background) </strong></em> but with curiosity and interest in creating and learning in general. You can check it at <a href=https://github.com/ivrr207/TheRoninPythonRoute> The Ronin Python Route </a> repo. Check out also <a href=https://github.com/ivrr207/81mAL5> 81mAL5</a>, a Python based program that will help you to know more about the nature of our human mind.
+  <br>
+  Peace!
+</html> :godmode:
