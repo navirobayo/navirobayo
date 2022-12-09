@@ -16,7 +16,7 @@
   I've written an eBook that might help you as a man in this world, you can check it at <a href=https://www.amazon.com/dp/B0BC8RT32L>Amazon Kindle </a> 
   <br> 
   <br> 
-  I'm currently compiling a Python learning route from scratch for people interested in creating and learning in general. You can check it at <a href=https://github.com/ivrr207/The_Ronin_Python_Route> The Ronin Python Route </a> repo. Check out also <a href=https://github.com/ivrr207/81mAL5> 81mAL5</a>, a program that will help you to know more about yourself and the nature of our human mind by tha hand of 3 Zen masters, created with Python.
+  I'm currently compiling a Python learning route from scratch for people interested in creating and learning in general. You can check it at <a href=https://github.com/ivrr207/The_Ronin_Python_Route> The Ronin Python Route </a> repo. Check out also <a href=https://github.com/ivrr207/81mAL5> 81mAL5</a>, a program that will help you to know more about yourself and the nature of our human mind by the hand of 3 Zen masters, created with Python.
   <br>
   Peace! :godmode:
 </html> 
