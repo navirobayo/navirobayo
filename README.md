@@ -4,7 +4,7 @@
   I like tattoos, to exercise and motorbikes.
   <br> 
   <br>
-  I've written an eBook that is going to help you as a man in this world, you can check it at <a href=https://www.amazon.com/dp/B0BC8RT32L>Amazon Kindle </a> 
+  I've written a book that is going to help you as a man in this world. 
   <br> 
   <br> 
   Do not forget to visit my webpage.
