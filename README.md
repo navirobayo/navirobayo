@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <h1 style="text-align"> <code> ¡Hola! </code> </h1>
-  I like tattoos, to exercise and motorbikes. :godmode:
+  I like tattoos and motorbikes. :godmode:
   <br> 
   <br>
   I've written a book that is going to help you as a man in this world. :anchor:
