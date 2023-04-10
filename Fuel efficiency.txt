@@ -1,0 +1,29 @@
+class FillUpScreen(Screen):
+    def calculate_fuel_efficiency(self):
+        # Get input values from the TextInput widgets
+        tank_capacity = float(self.ids.tank_capacity_input.text)
+        fuel_price = float(self.ids.fuel_price_input.text)
+        starting_odometer = float(self.ids.starting_odometer_input.text)
+        ending_odometer = float(self.ids.ending_odometer_input.text)
+        
+        # Calculate distance travelled
+        distance_travelled = ending_odometer - starting_odometer
+        
+        # Calculate fuel used
+        fuel_used = tank_capacity / 2
+        
+        # Calculate money spent in the ride
+        money_spent = fuel_price * fuel_used
+        
+        # Calculate fuel efficiency per kilometer
+        fuel_efficiency = fuel_used / distance_travelled
+        
+        # Calculate price per kilometer
+        price_per_kilometer = money_spent / distance_travelled
+        
+         # update the text of the Label widgets with the results
+        self.ids.distance_label.text = str(distance_travelled)
+        self.ids.fuel_label.text = str(fuel_used)
+        self.ids.money_label.text = str(money_spent)
+        self.ids.fuel_efficiency_label.text = str(fuel_efficiency)
+        self.ids.price_per_km_label.text = str(price_per_km)
