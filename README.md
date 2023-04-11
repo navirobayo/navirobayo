@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <h1 style="text-align"> <code> ¡Hola! </code> </h1>
-  I like tattoos and motorbikes. :godmode:
+  <h1 style="text-align"> <code> Bienvenida/o | Welcome </code> </h1>
+  Me gustan los tatuajes y las motocicletas | I like tattoos and motorbikes. :godmode:
   <br> 
   <br>
-  I've written a book that is going to help you as a man in this world. :anchor:
+  Estoy construyendo una aplicación móvil y comparto su proceso en YouTube | I'm building a mobile app and sharing it's process in YouTube :anchor:
   <br> 
   <br> 
-  Do not forget to visit host2077 in YouTube and leave your comment! 🗻
+  Peace! 🗻
   <hr shade size="4" widht="50%" align="center"/>  
 </html> 
