@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <h1 style="text-align"> <code> Hi </code> </h1>
   I like tattoos and motorbikes. :godmode:
   <br> 
   <br>
