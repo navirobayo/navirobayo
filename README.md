@@ -4,7 +4,7 @@
   <ul>
   <li>I like tattoos and motorbikes</li>
   <br>
-  <li>I'm building a mobile app and sharing it's process in YouTube. Peace!</li>
+  <li>I'm building a mobile app and sharing it's process in YouTube</li>
 </ul> 
   :godmode: :anchor:
 </html> 
