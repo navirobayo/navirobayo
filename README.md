@@ -4,10 +4,7 @@
   I like tattoos and motorbikes
   <br> 
   <br>
-  I'm building a mobile app and sharing it's process in YouTube
-  <br> 
-  <br> 
-  Peace!
+  I'm building a mobile app and sharing it's process in YouTube. Peace!
   <br> 
   <br> 
   :godmode: :anchor:
