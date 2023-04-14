@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h1 style="text-align"><code>Hola</code></h1>
+  <h1 style="text-align"><code>Hola. I'm Latino</code></h1>
   <ul>
   <li>I like tattoos and motorbikes</li>
   <br>
