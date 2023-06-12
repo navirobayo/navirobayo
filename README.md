@@ -4,5 +4,5 @@
 - :black_circle: Ask me about mobile development
 - :black_circle: Fun fact: I like tattoos and motorbikes
 - :black_circle: Send me an email or message me on [Discord](https://discord.gg/M4wTh36A3N) 
-- :black_circle: Checkout my YouTube channel: [@host.2077](https://www.youtube.com/@host.2077)
+- :black_circle: Check out my YouTube channel: [@host.2077](https://www.youtube.com/@host.2077)
 
