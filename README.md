@@ -1,6 +1,6 @@
-# I'm Latino and I'm a mobile apps developer.
+# Hello fellow human. How's life? 
 
-- :black_circle: My name is Ivan and I live in Colombia
-- :black_circle: Ask me about mobile development, motorbikes or tattoos
-- :black_circle: Check out my app VENOM on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352) and let me know what do you think about it!
-- :black_circle: Feel free to message me on [Discord](https://discord.gg/M4wTh36A3N) 
+- :black_circle: My name is Ivan, nice to meet you
+- :black_circle: I'm currently working on a digital dreams journaling app called Conejoz
+- :black_circle: Check out my profile on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+- :black_circle: Feel free to message me on [discord](https://discord.gg/M4wTh36A3N), we can talk about mobile development, motorbikes or tattoos
