@@ -1,4 +1,4 @@
-# Hola. How's life? 
+# Hola! How's life? 
 
 :black_circle: My name is Ivan, nice to meet you </br>
 :black_circle:  I'm currently working on a dream-journaling app called Conejoz </br>
