@@ -2,7 +2,7 @@
 
 ⚫ My name is Ivan, nice to meet you
 
-⚫ I'm a mobile developer. I'm currently working on a dream-journaling app called Conejoz
+⚫ I'm currently working on a dream-journaling app called Conejoz
 
 ⚫ Check out my apps on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
