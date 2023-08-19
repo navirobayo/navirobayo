@@ -1,6 +1,9 @@
-# Hola! How's life? 
+## Hola 🌇
 
-:black_circle: My name is Ivan, nice to meet you </br>
-:black_circle:  I'm currently working on a dream-journaling app called Conejoz </br>
-:black_circle: Feel free to message me, we can talk about mobile development, motorbikes or tattoos: [+](https://discord.com/invite/M4wTh36A3N) </br>
-:black_circle: Check out my apps on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352) </br>
+⚫ My name is Ivan, nice to meet you
+
+⚫ I'm a mobile developer. I'm currently working on a dream-journaling app called Conejoz
+
+⚫ Check out my apps on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+
+⚫ Feel free to message me, we can talk about mobile development, motorbikes or tattoos: [+](https://discord.com/invite/M4wTh36A3N)
