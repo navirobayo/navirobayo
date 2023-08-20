@@ -9,9 +9,7 @@
 ⚫ Feel free to message me, we can talk about mobile development, motorbikes or tattoos: [+](https://discord.com/invite/M4wTh36A3N)
 
 <!--START_SECTION:waka-->
-
 ```txt
 Dart   3 mins          █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
