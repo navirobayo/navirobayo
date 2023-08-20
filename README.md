@@ -11,6 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 18 August 2023 - To: 19 August 2023
+
+Total Time: 3 mins
+
 Dart   3 mins          █████████████████████████   100.00 %
 ```
 
