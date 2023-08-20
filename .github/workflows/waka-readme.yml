@@ -1,9 +1,11 @@
 name: Waka Readme
 
 on:
-  # Run the workflow at 12 AM and 12 PM UTC (5:30 AM and 5:30 PM IST)
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0,12 * * *"
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -13,5 +15,24 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Customize the blocks used for the stats graph
-          BLOCKS: ⚫◼▣█
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: navirobayo/navirobayo # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Ivan # optional
+          AUTHOR_EMAIL: navirobayo@gmail.com # optional
+          # you can populate email-id with secretes instead
