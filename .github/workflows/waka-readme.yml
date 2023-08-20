@@ -19,13 +19,13 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: navirobayo/navirobayo # optional
           ### content
-          BLOCKS: ░ # optional
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: false
           SECTION_NAME: Cool stats # optional
+          BLOCKS: ░
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TOTAL: false
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
