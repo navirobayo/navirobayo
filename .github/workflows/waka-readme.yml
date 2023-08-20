@@ -19,9 +19,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: navirobayo/navirobayo # optional
           ### content
-          SECTION_NAME: Cool stats # optional
-          SHOW_TITLE: true
-          CODE_LANG: dart
+          SHOW_TITLE: false
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
