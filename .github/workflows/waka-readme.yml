@@ -1,11 +1,9 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  # Run the workflow at 12 AM and 12 PM UTC (5:30 AM and 5:30 PM IST)
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0,12 * * *"
 
 jobs:
   update-readme:
@@ -15,3 +13,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Customize the blocks used for the stats graph
+          BLOCKS: ⚫◼▣█
