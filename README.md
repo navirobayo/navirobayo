@@ -9,11 +9,4 @@
 ⚫ Feel free to message me, we can talk about mobile development, motorbikes or tattoos: [+](https://discord.com/invite/M4wTh36A3N)
 
 <!--START_SECTION:waka-->
-
-```txt
-Dart       16 mins         █████████████████████▒░░░   85.65 %
-YAML       2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-GDScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
