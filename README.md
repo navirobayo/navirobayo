@@ -4,7 +4,7 @@
 
 ⚫ I'm currently working on my indie software brand Binocu
 
-⚫ Check out our apps on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
 ⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes: [Discord](https://discord.com/invite/M4wTh36A3N)
 
