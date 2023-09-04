@@ -6,7 +6,7 @@
 
 ⚫ Check out our apps on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
-⚫ Feel free to message me, we can talk about mobile development, motorbikes or tattoos: [+](https://discord.com/invite/M4wTh36A3N)
+⚫ Feel free to message me, we can talk about mobile development, motorbikes or tattooing: [Discord](https://discord.com/invite/M4wTh36A3N)
 
 <!--START_SECTION:waka-->
 
