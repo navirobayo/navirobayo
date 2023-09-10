@@ -2,7 +2,7 @@
 
 ⚫ My name is Ivan, nice to meet you
 
-⚫ I'm currently working on my indie software brand
+⚫ I'm currently working on new features for Conejoz
 
 ⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
