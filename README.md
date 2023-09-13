@@ -1,13 +1,3 @@
-## Hola 🌇
-
-⚫ My name is Ivan, nice to meet you
-
-⚫ I'm currently working on new features for Conejoz
-
-⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
-
-⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes: [Discord](https://discord.com/invite/M4wTh36A3N)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -24,3 +14,11 @@ Groovy            9 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+⚫ My name is Ivan, nice to meet you
+
+⚫ I'm currently working on a new features for Conejoz 2.0 
+
+⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+
+⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes | [Discord](https://discord.com/invite/M4wTh36A3N)
