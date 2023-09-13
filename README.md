@@ -17,7 +17,7 @@ Groovy            9 mins          ░░░░░░░░░░░░░░░�
 
 ⚫ My name is Ivan, nice to meet you
 
-⚫ I'm currently working on a new features for Conejoz 2.0 
+⚫ I'm currently working on a new features for Conejoz
 
 ⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
