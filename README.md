@@ -17,7 +17,7 @@ XML               17 mins         ░░░░░░░░░░░░░░░�
 
 ⚫ My name is Ivan, nice to meet you
 
-⚫ I'm currently migrating Conejoz from GetX to BloC
+⚫ I'm currently working on new features for Conejoz
 
 ⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
