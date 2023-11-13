@@ -19,6 +19,6 @@ XML               17 mins         ░░░░░░░░░░░░░░░�
 
 ⚫ I'm currently working on new features for Conejoz
 
-⚫ Check out Binocu on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+⚫ Check out Binocu in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
 ⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes > [Discord](https://discord.com/invite/M4wTh36A3N)
