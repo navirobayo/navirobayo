@@ -1,11 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "15 6 * * *"
+    # Runs at 18:15,45 UTC / 23:45,00:15 IST
+    - cron: '15,45 18 * * *'
 
 jobs:
   update-readme:
@@ -20,10 +19,11 @@ jobs:
           REPOSITORY: navirobayo/navirobayo # optional
           ### content
           SHOW_TITLE: false
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
-          SHOW_TOTAL: false
+          SHOW_TOTAL: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
