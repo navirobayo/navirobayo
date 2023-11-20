@@ -20,10 +20,10 @@ jobs:
           REPOSITORY: navirobayo/navirobayo # optional
           ### content
           SHOW_TITLE: false
-          TIME_RANGE: last_6_months
+          TIME_RANGE: all_time
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
-          SHOW_TOTAL: false
+          SHOW_TOTAL: true
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           ### commit
