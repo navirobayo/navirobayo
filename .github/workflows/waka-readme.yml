@@ -20,7 +20,7 @@ jobs:
           REPOSITORY: navirobayo/navirobayo # optional
           ### content
           SHOW_TITLE: false
-          TIME_RANGE: last_year
+          TIME_RANGE: last_6_months
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false
