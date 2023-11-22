@@ -15,7 +15,7 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ⚫ My name is Ivan, nice to meet you
 
-⚫ I'm currently working on new features for Conejoz
+⚫ I'm currently working on Mi Terra App
 
 ⚫ Check out Binocu in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
