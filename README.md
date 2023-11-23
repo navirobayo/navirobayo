@@ -17,9 +17,9 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-⚫ My name is Ivan, nice to meet you
+⚫ Helo there, nice to meet you
 
-⚫ I'm currently working on Mi Terra App
+⚫ I'm currently working on Mi Terra App, an app to manage a farming business
 
 ⚫ Check out Binocu in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
