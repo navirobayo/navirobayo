@@ -1,0 +1,84 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* App.css */
+
+/* Keyframes for the pulsating effect */
+@keyframes pulsate {
+  0% {
+    width: 10px;
+    height: 10px;
+  }
+  50% {
+    width: 300px;
+    height: 300px;
+  }
+  100% {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* Styling for the ring element */
+.ringA {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 2px solid black;
+  box-sizing: border-box;
+  animation: pulsate 2s infinite; /* Apply the pulsating animation */
+}
+
+.ringB {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 2px solid black;
+  box-sizing: border-box;
+  animation: pulsate 2s infinite; /* Apply the pulsating animation */
+}
+
+
+
+
+
+
+
+
+/* Not used at the moment. */
+
+/* 
+.reticule {
+  display: grid;
+  grid-template-columns: repeat(10, 30px); 
+  gap: 1px; 
+  margin-top: 20px; 
+}
+
+/* 
+.square {
+  width: 30px;
+  height: 30px;
+}
+
+/* 
+.square:nth-child(even) {
+  background-color: gray;
+}
+
+.square:nth-child(odd) {
+  background-color: white;
+}
+
+/* 
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+*/
+
