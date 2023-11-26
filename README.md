@@ -17,7 +17,7 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-⚫ Helo there, nice to meet you
+⚫ Hello there, nice to meet you
 
 ⚫ I'm currently working on Mi Terra App, an app to manage a farming business
 
