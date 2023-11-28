@@ -17,10 +17,10 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-⚫ Hello there, nice to meet you
+⚫ Hello there
 
 ⚫ I'm currently working on Mi Terra App, an app to manage a farming business
 
-⚫ Check out Binocu in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+⚫ Check out my apps in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
 ⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes > [Discord](https://discord.com/invite/M4wTh36A3N)
