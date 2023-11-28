@@ -19,8 +19,8 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ⚫ Hello there
 
-⚫ I'm currently working on Mi Terra App, an app to manage a farming business
+⚫ I'm currently working on Mi Terra App, an app to manage my farming business
 
-⚫ Check out my apps in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+⚫ Check out all of my work in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
 ⚫ Feel free to message me, we can talk about mobile development, tattoos or motorbikes > [Discord](https://discord.com/invite/M4wTh36A3N)
