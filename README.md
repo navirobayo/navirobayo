@@ -19,6 +19,6 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ⚫ Hello there,
 
-⚫ Check out Mi Terra App, an app to manage farming businesses, available now in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
+⚫ Check out Mi Terra App, an app to manage farming businesses, available in the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
 ⚫ Feel free to message me on [Discord](https://discord.com/invite/M4wTh36A3N), we can talk about programming, tattoos or motorbikes 
