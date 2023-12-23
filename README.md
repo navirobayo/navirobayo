@@ -21,6 +21,6 @@ Markdown          19 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ⚫ Check out my work on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
-⚫ I find interesting to use technology to provide an automated and sustainable future in my region, Colombia.
+⚫ I find interesting to use technology to provide an automated and sustainable future in my region
 
 ⚫ Feel free to message me on [Discord](https://discord.com/invite/M4wTh36A3N), we can talk about programming, tattoos or motorbikes 
