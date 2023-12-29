@@ -21,6 +21,6 @@ JSON              20 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ⚫ Check out my work on the [Google Play Store](https://play.google.com/store/apps/dev?id=8134108822411179352)
 
-⚫ I'm currently using technology to provide an automated future in my region. I'm building a startup. 
+⚫ I'm currently using technology to create an e-commerce. I'm building a startup. 
 
 ⚫ Feel free to message me on [Discord](https://discord.com/invite/M4wTh36A3N), we can talk about programming, tattoos or motorbikes 
