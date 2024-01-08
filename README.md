@@ -19,6 +19,4 @@ JSON              20 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ⚫ Hello there
 
-⚫ I'm currently using technology to create an e-commerce. I'm building a startup. 
-
 ⚫ Feel free to message me on [Discord](https://discord.com/invite/M4wTh36A3N), we can talk about programming, tattoos or motorbikes 
