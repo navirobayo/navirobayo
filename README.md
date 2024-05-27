@@ -16,7 +16,3 @@ Java Properties   1 hr 14 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-⚫ Hello there
-
-⚫ Feel free to message me on [Discord](https://discord.com/invite/M4wTh36A3N), we can talk about programming, tattoos or motorbikes 
